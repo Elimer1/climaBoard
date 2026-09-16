@@ -1,0 +1,13 @@
+* {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: red;
+  border-bottom: 1px dotted black;
+}
